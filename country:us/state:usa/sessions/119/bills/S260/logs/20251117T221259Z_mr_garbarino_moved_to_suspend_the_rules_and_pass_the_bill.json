@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Mr. Garbarino moved to suspend the rules and pass the bill.",
+    "date": "2025-11-17T22:12:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 260"
+}

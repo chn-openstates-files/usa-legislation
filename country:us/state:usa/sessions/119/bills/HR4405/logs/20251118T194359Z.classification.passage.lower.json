@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed/agreed to in House: On motion to suspend the rules and pass the bill Agreed to by recorded vote (2/3 required): 427 - 1 (Roll no. 289). (text: CR H4725)",
+    "date": "2025-11-18T19:43:59+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 4405"
+}

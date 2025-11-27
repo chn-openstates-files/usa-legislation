@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Rule H. Res. 879 passed House.",
+    "date": "2025-11-18T20:05:02+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 5214"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Passed Senate without amendment by Yea-Nay Vote. 51 - 43. Record Vote Number: 623. (consideration: CR S8249-8259; text: CR S8249)",
+    "date": "2025-11-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HJRES 130"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Cloture on the measure, as amended, invoked in Senate by Yea-Nay Vote. 60 - 40. Record Vote Number: 617.",
+    "date": "2025-11-10T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HR 5371"
+}

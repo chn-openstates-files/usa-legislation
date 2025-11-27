@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Considered as privileged matter. (consideration: CR H4664)",
+    "date": "2025-11-13T01:25:35+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HRES 874"
+}

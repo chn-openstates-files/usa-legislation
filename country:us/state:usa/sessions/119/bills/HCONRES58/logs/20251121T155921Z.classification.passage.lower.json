@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed/agreed to in House: On agreeing to the resolution Agreed to by the Yeas and Nays: 285 - 98, 2 Present (Roll no. 305).",
+    "date": "2025-11-21T15:59:21+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HCONRES 58"
+}

@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "The resolution makes in order a motion that the House concur in the Senate amendment to H.R. 5371 and provides for one hour of debate.",
+    "date": "2025-11-12T16:49:38+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "HRES 873"
+}

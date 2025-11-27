@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Passed Senate without amendment by Voice Vote. (consideration: CR S8395-8398; text: CR S8395-8398)",
+    "date": "2025-11-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 351"
+}

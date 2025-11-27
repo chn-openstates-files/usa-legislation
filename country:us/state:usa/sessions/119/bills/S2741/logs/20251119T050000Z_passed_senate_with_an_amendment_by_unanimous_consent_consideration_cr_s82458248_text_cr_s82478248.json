@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Passed Senate with an amendment by Unanimous Consent. (consideration: CR S8245-8248; text: CR S8247-8248)",
+    "date": "2025-11-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "S 2741"
+}

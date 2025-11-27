@@ -1,0 +1,10 @@
+{
+  "action": {
+    "description": "Senate Committee on the Judiciary discharged by Unanimous Consent. (consideration: CR S8400; text: CR 11/06/2025 S7965-7966)",
+    "date": "2025-11-20T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [],
+    "related_entities": []
+  },
+  "bill_id": "SRES 489"
+}

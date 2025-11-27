@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Became Public Law No: 119-38.",
+    "date": "2025-11-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"executive\"}",
+    "classification": [
+      "became-law"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 4405"
+}

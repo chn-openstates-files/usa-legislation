@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 237 - 179 (Roll no. 298). (text of amendment in the nature of a substitute: CR H4796)",
+    "date": "2025-11-20T01:39:48+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 5214"
+}

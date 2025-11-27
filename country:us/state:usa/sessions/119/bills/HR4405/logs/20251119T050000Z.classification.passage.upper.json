@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed/agreed to in Senate: Received in the Senate, read twice, considered, read the third time, and passed, under the order of 11/18/2025, without amendment by Unanimous Consent.",
+    "date": "2025-11-19T05:00:00+00:00",
+    "organization_id": "~{\"classification\": \"upper\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HR 4405"
+}

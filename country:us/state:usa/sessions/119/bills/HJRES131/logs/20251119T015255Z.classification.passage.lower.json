@@ -1,0 +1,12 @@
+{
+  "action": {
+    "description": "Passed/agreed to in House: On passage Passed by the Yeas and Nays: 217 - 209 (Roll no. 295). (text: CR H4750)",
+    "date": "2025-11-19T01:52:55+00:00",
+    "organization_id": "~{\"classification\": \"lower\"}",
+    "classification": [
+      "passage"
+    ],
+    "related_entities": []
+  },
+  "bill_id": "HJRES 131"
+}
